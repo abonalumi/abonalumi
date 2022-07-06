@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abonalumi (Augusto Bonalumi, but Gus is ok too)
 - 👀 I’m interested in web app development
-- 🌱 I’m currently learning Python / Django
+- 🌱 I’m into Python / Django
 - 📫You can find me on Twitter as @BonalumiAugusto
