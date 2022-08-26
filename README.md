@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abonalumi (Augusto Bonalumi, but Gus is ok too)
-- 👀 I’m interested in web app development
-- 🌱 I’m into Python / Django
-- 📫You can find me on Twitter as @BonalumiAugusto
+- 👋 Hola, Soy @abonalumi (Augusto Bonalumi o Agus)
+- 👀 Me interesa el desarollo web
+- 🌱 Trabajo con la plataforma .NET usando C#
+- 📫Me podés encontrar en Twitter como @BonalumiAugusto
